@@ -73,7 +73,7 @@ public class Main
 
        Student st1 = new Student("Luis", "IE 8");
 
-       Student st2 = new Student("Peps", "IE 8");
+       Student st2 = new Student("Pp", "ISC 8");
 
        session.AddStudent(149531, st1);
        session.AddStudent(149532, st2);
